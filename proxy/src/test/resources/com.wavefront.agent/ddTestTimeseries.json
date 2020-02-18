@@ -49,6 +49,7 @@
       "type":"rate",
       "interval": 20,
       "host":"testhost",
-      "tags":null}
+      "tags":null
+    }
   ]
 }
